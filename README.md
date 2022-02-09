@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Hidden-MrPickle
+- 👀 I’m interested in cibersecurity, web development and the Apis
+- 🌱 I’m currently learning JS and python3
